@@ -1,4 +1,4 @@
-<img width="710" height="543" alt="image" src="https://github.com/user-attachments/assets/76a6db5d-719c-455c-accf-b8b671f76aeb" /># gig_guard
+# gig_guard
 # 🛡️ AI-Powered Insurance for India’s Gig Economy
 
 ## 🚀 Overview
@@ -221,6 +221,7 @@ A coordinated fraud ring can:
 * Sync when network restores
 
 ---
+
 
 ## 🏗️ Tech Stack
 
