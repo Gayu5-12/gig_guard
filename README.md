@@ -1,4 +1,4 @@
-# gig_guard
+<img width="710" height="543" alt="image" src="https://github.com/user-attachments/assets/76a6db5d-719c-455c-accf-b8b671f76aeb" /># gig_guard
 # 🛡️ AI-Powered Insurance for India’s Gig Economy
 
 ## 🚀 Overview
@@ -50,12 +50,19 @@ Features (Input Data)
 We train using:
 
 🌡️ Temperature
+
 🌧️ Rainfall
+
 💨 Wind speed
+
 🌫️ AQI (pollution)
+
 🚦 Traffic congestion index
+
 📍 City / Location encoding
+
 🕒 Time of day / season
+
 📅 Historical disruption frequency
 
 Training Process
@@ -228,11 +235,6 @@ A coordinated fraud ring can:
 
 * Python / Django (or Node.js)
 * REST APIs
-
-### AI/ML
-
-* Risk prediction models
-* Anomaly detection algorithms
 
 ### Database
 
